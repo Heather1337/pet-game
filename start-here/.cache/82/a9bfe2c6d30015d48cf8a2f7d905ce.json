@@ -1,11 +1,1 @@
-{
-  "id": "index.html",
-  "dependencies": [],
-  "generated": {
-    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Fox Project</title>\n  </head>\n  <body>\n    <h1>Hello World!</h1>\n  </body>\n</html>"
-  },
-  "sourceMaps": null,
-  "error": null,
-  "hash": "c1aa1883b5bf37faaaac9709866b39e5",
-  "cacheData": {}
-}
+{"id":"index.html","dependencies":[{"name":"./init.js","dynamic":true,"resolved":"/Users/heather/Desktop/pet-game/start-here/src/init.js","parent":"/Users/heather/Desktop/pet-game/start-here/src/index.html"}],"generated":{"html":"<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Fox Project</title>\n  </head>\n  <body>\n    <h1>Hello World!</h1>\n    <script src=\"/172cc6cf3ffdf57b151eaa939d6cb373.js\"></script>\n  </body>\n</html>\n"},"sourceMaps":null,"error":null,"hash":"dc8dbd9de726865b9bbb4a953d5534d6","cacheData":{}}
